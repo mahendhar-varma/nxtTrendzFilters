@@ -1,0 +1,25 @@
+.rating-item {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-left: -120px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.rating-icon {
+  width: 100px;
+  height: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.rating {
+  color: #475569;
+  font-size: 15px;
+}

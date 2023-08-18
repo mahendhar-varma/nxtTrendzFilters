@@ -1,0 +1,11 @@
+.category-item {
+  color: #64748b;
+  font-weight: bold;
+  font-size: 15px;
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+.active-class {
+  color: #0967d2;
+}
